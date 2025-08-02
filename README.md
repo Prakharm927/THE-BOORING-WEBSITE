@@ -20,7 +20,8 @@ Despite the name, it's anything but dull. It’s a fast, distraction-free homepa
 
 ## 🖼️ UI Preview
 
-> ![Homepage Screenshot](<img width="1881" height="802" alt="Screenshot 2025-08-02 124636" src="https://github.com/user-attachments/assets/fa8080fd-8cad-415f-9b37-ce5ef868fef3" />
+> ![Homepage Screenshot](<img width="1881" height="802" alt="Screensh<img width="1881" height="802" alt="Screenshot 2025-08-02 124636" src="https://github.com/user-attachments/assets/136d6992-45e1-4be1-887f-1479d4be52a4" />
+ot 2025-08-02 124636" src="https://github.com/user-attachments/assets/fa8080fd-8cad-415f-9b37-ce5ef868fef3" />
 )  
 *(Homepage of THE BOORING WEBSITE)*
 
