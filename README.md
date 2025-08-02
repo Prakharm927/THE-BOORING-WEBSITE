@@ -32,6 +32,10 @@ Here’s a quick look at the homepage (and this is just the beginning):
 
 ![Homepage Screenshot](https://github.com/user-attachments/assets/136d6992-45e1-4be1-887f-1479d4be52a4)
 
+Everything is organized under their suitable categories:
+<img width="1859" height="811" alt="Screenshot 2025-08-02 124705" src="https://github.com/user-attachments/assets/94ee4a54-dbdd-4657-a201-f2edd557b69c" />
+
+
 ---
 
 ## 🚀 Getting Started
